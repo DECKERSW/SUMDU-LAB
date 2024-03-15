@@ -1,0 +1,7 @@
+Words of 3 characters: 8
+Words of 5 characters: 6
+Words of 4 characters: 6
+Words of 2 characters: 1
+Words of 6 characters: 2
+Words of 17 characters: 1
+Words of 8 characters: 1
