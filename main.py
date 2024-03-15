@@ -1,10 +1,8 @@
-# Ім'я: Перший Студент
-# Програма: Створення початкового файлу з питанням
+# Прізвище Ім'я: Кот Михайло
 
 def create_initial_file(file_name):
     try:
         with open(file_name, 'w') as file:
-            # Записуємо прізвище першого студента та перше питання
             file.write("Last name: Kot\n")
             file.write("Question: How to display 'Hello, World!' in Python?\n")
         print(f"Файл {file_name} успішно створено з початковими даними.")
